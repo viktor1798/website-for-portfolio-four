@@ -140,10 +140,17 @@
 
 
 .box__benefist{
-
+    display: flex;
 }
-.benefist__description{
 
+/* размытие */
+.benefist__description{
+    background-image: url(../../image/header_benefist_description_img.png);
+    
+    width: 412px;
+    height: 288px;
+    background-repeat: no-repeat;
+    /* opacity: 0.8; */
 }
 .description__title-item{
 
