@@ -141,88 +141,171 @@
 
 .box__benefist{
     display: flex;
+    margin-top: 85px;
 }
 
 /* размытие */
 .benefist__description{
     background-image: url(../../image/header_benefist_description_img.png);
-    
     width: 412px;
     height: 288px;
     background-repeat: no-repeat;
-    /* opacity: 0.8; */
+    opacity: 0.9;
+    margin: 0 10px 0 0;
 }
 .description__title-item{
-
+    color:#000000;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 41px;
+    width: 344px;
+    margin: 66px 0 23px 44px;
 }
 .description__line{
-
+    width: 88px;
+    height: 5.36px;
+    background-color: #000000;
+    margin-left: 42px;
 }
 .description__text-item{
-
+    color:#000000;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    width: 323px;
+    margin: 18px 0 0px 44px;
 }
 
 .benefist__price-car{
-
+    width: 204px;
+    height: 287px;
+    background-color: yellow;
+    border-radius: 10%;
+    margin: 0 10px 0 10px;
 }
 .price-car__price{
-
+    background-color:#DEB905 ;
+    width: 78px;
+    height: 25px;
+    border-radius: 10%;
+    margin: 16px 0 0 17px;
 }
 .price__price-car-item{
-
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    color: #534407;
+    
 }
 .price-car__text{
 
 }
 .text__item-price-car{
-
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 19px;
+    line-height: 25px;
+    color: black;
+    margin: 10px 0 0 17px;
 }
 .price-car__image{
-
+    margin-top: 87px;
+    margin-left: 18px;
 }
 .image__price-car{
 
 }
 
+
 .benefist__price-jeep{
-background-color:#4B5257 ;
+    width: 204px;
+    height: 287px;
+    border-radius: 10%;
+    background-color:#4B5257 ;
+    margin: 0 10px 0 10px;
 }
 .price-jeep__price{
-
+    background-color:#B0B0B0 ;
+    width: 78px;
+    height: 25px;
+    border-radius: 10%;
+    margin: 16px 0 0 17px;
 }
 .price__price-jeep-item{
-
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    color: white;
 }
 .price-jeep__text{
 
 }
 .text__item-price-jeep{
-
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 19px;
+    line-height: 25px;
+    color: #FFFFFF;
+    margin: 10px 0 0 17px;
 }
 .price-jeep__image{
-
+    margin-top: 87px;
+    margin-left: 18px;
 }
 .image__price-jeep{
 
 }
 
-.benefist__price-commercial-car{
 
+.benefist__price-commercial-car{
+    width: 204px;
+    height: 287px;
+    border-radius: 10%;
+    background-color:#5BBFC8 ;
+    margin: 0 10px 0 10px;
 }
 .price-commercial-car__price{
-
+    background-color:#49A1A9 ;
+    width: 78px;
+    height: 25px;
+    border-radius: 10%;
+    margin: 16px 0 0 17px;
 }
 .price__price-commercial-car-item{
-
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    color: #1E4D54;
 }
 .price-commercial-car__text{
 
 }
 .text__item-price-commercial-car{
-
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 19px;
+    line-height: 25px;
+    margin: 10px 0 0 17px;
 }
 .price-commercial-car__image{
-
+    margin-top: 66px;
+    margin-left: 18px;
 }
 .image__price-commercial-car{
 
