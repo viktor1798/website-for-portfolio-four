@@ -1,0 +1,71 @@
+.mobile-t-fitting{
+    background-image: url(../../image/mobile-t-fitting_bgimg.png);
+    height: 1003px;
+    
+}
+.mobile-t-fitting__title{
+    padding-top: 165px;
+}
+.title__mobile-t-fitting-main-text{
+    
+}
+.mobile-t-fitting-main-text__text{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 45px;
+    line-height: 55px;
+    /* or 122% */
+    
+    text-align: center;
+    text-transform: uppercase;
+}
+.mobile-t-fitting__box-item{
+display: flex;
+justify-content: space-between;
+margin-top: 165px;
+}
+.box-item__mobile-t-f-list1{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 23px;
+    /* or 115% */
+    
+    
+    color: #17181C;
+    width: 256px;
+}
+.mobile-t-f-list1__item{
+    margin-bottom: 45px;
+    
+}
+.mobile-t-f-list1__line{
+    border-top: 1px dashed #000; /* Параметры линии */
+    height: 18px; /* Высота блока */
+    background: url(images/scissors.png) no-repeat 10px -18px;
+}
+.box-item__mobile-t-f-img{
+width: 333.33px;
+height: 394px;
+margin-top: 29px;
+}
+.mobile-t-f-img__image{
+
+}
+.box-item__mobile-t-f-list2{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 23px;
+/* or 115% */
+
+
+color: #17181C;
+width: 256px;
+}
+.mobile-t-f-list2__item{
+    margin-bottom: 45px;
+}
