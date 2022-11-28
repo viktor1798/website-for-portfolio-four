@@ -1,0 +1,50 @@
+.coverage-map{
+    background-image: url(../../image/coverage-map-bgimg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 777px;
+}
+.coverage-map__block-c-m{
+    display: flex;
+}
+.block-c-m__c-m-description{
+
+}
+.c-m-description__main-text-c-m{
+
+}
+.main-text-c-m__vertical-line{
+
+}
+.main-text-c-m__vertical-line{
+
+}
+.main-text-c-m__text-info-c-m{
+
+}
+.text-info-c-m__item{
+
+}
+.c-m-description__blast-zone-c-m{
+
+}
+.blast-zone-c-m__block-b-z-c-m{
+
+}
+.block-b-z-c-m__circle{
+
+}
+.block-b-z-c-m__text-block-b-z-c-m{
+
+}
+.text-block-b-z-c-m__item{
+
+}
+.block-c-m__map-c-m{
+    position: relative;
+    left: 430px;
+}
+.map-c-m__image{
+    height: 683px;
+    width: 1011px;
+}
