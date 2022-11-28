@@ -1,0 +1,42 @@
+.additional-work{
+    height: 733px;
+}
+.additional-work__title-additional-work{
+    padding-top: 94px;
+}
+.title-additional-work__a-w-main-text{
+
+}
+.a-w-main-text__text{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 45px;
+    line-height: 55px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.additional-work__block-a-w{
+display: flex;
+margin-left: 28px;
+margin-top: 71px;
+}
+.block-a-w__img-a-w{
+
+}
+.img-a-w__item{
+
+}
+.block-a-w__list-a-w{
+    margin-left: 215px;
+    margin-top: 44px;
+}
+.list-a-w__item{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 35px;
+    
+   
+}
