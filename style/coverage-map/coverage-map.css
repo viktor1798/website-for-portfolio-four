@@ -1,50 +1,78 @@
 .coverage-map{
     background-image: url(../../image/coverage-map-bgimg.png);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
+    width: 100%;
     height: 777px;
+  
 }
 .coverage-map__block-c-m{
     display: flex;
 }
 .block-c-m__c-m-description{
-
+    margin-top: 220px;
 }
 .c-m-description__main-text-c-m{
-
+    display: flex;
+    margin-bottom: 70px;    
 }
 .main-text-c-m__vertical-line{
-
-}
-.main-text-c-m__vertical-line{
-
+    width: 7px;
+    height: 155px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    margin-top: 5px;    
 }
 .main-text-c-m__text-info-c-m{
-
+    width: 410px;
+    height: 170px;
+    margin-left: 30px;
 }
 .text-info-c-m__item{
-
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 45px;
+    line-height: 55px;
+    /* or 122% */
+    
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
 }
 .c-m-description__blast-zone-c-m{
 
 }
 .blast-zone-c-m__block-b-z-c-m{
-
+    display: flex;
 }
 .block-b-z-c-m__circle{
-
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    background: #D07C75;
+    border: 2px solid #FFFFFF;
 }
 .block-b-z-c-m__text-block-b-z-c-m{
-
+ 
 }
 .text-block-b-z-c-m__item{
-
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+   
+    align-items: center;
+    
+    color: #FFFFFF;
 }
 .block-c-m__map-c-m{
     position: relative;
-    left: 430px;
+    left: 50px ;
+    margin-right: -50px;
 }
 .map-c-m__image{
-    height: 683px;
-    width: 1011px;
+    height: 776px;
+    width: 707px;
 }
