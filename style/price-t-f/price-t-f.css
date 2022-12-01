@@ -1,0 +1,134 @@
+
+.price-t-f{
+    margin-top: 95px;
+}
+.price-t-f__title-price-t-f{
+
+}
+.title-price-t-f__p-t-f-main-text{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 45px;
+    line-height: 55px;
+    /* or 122% */
+    
+    text-align: center;
+    text-transform: uppercase;
+}
+.p-t-f-main-text__text{
+
+}
+.price-t-f__choice-p-t-f{
+    display: flex;
+    margin-top: 69px;
+    margin-left: 205px;
+}
+.choice-p-t-f__text-choice{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    
+    color: #000000;
+    
+    opacity: 0.5;
+
+    margin-left: 55px;
+    margin-top: 30px;
+  
+}
+.text-choice__item{
+
+}
+.choice-p-t-f__scroll-c-p-t-f{
+ 
+}
+.choice-p-t-f__wheel-size{
+    display: flex;
+    margin-bottom: 19px;
+}
+.wheel-size-li-item{
+    list-style: none;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 25px;
+
+    color: #000000;
+
+    opacity: 0.5;
+    margin-left: 28px ;
+}
+.scroll-c-p-t-f__scroll-bar{
+    width: 453;
+    height: 3px;
+    background: #EBE9E9;
+    border-radius: 5px;
+    margin-left: 25px;
+}
+.price-t-f__price-list{
+    width: 830px;
+   margin-left: 113px;
+   margin-top: 35px;
+}
+.price-list__item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #EBE9E9;
+    margin-bottom: 5px;
+}
+.item__text-p-l{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 45px;
+    /* or 265% */
+    
+    
+    color: #000000;
+}
+.item__price{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 45px;
+    /* or 250% */
+    
+    
+    color: #000000;
+    
+}
+.price-list__button-p-l{
+    margin-left: 290px;
+    margin-top: 70px;
+}
+.button-p-l__item{
+    display: flex;
+    width: 250px;
+    height: 66px;
+    background-color: #FFD200;
+    border: 0;
+    border-radius: 5px;
+    
+}
+.item__button-p-l-text{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+/* identical to box height */
+    margin: 22px 4px 22px 19px;
+    color: #000000;
+}
+.item__button-p-l-img{
+    width: 33px;
+    height: 33px;
+    margin: 17px 0px 16px 0px;
+}
