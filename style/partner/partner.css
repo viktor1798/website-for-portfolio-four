@@ -1,0 +1,60 @@
+.partner{
+margin-top: 90px;
+}
+.partner__title-partner{
+    margin-bottom: 40px;
+}
+.title-partner__partner-main-text{
+    text-align: center;
+    text-transform: uppercase;
+}
+.partner-main-text__text{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 45px;
+    line-height: 55px;
+}
+.partner__main-block-partner{
+    /* display: flex; */
+
+}
+.main-block-partnerr__image-partner-one{
+display: flex;
+justify-content: space-between;
+}
+.main-block-partner__image-partner-two{
+display: flex;
+justify-content: space-between;
+}
+.partner__image-partner-one{
+    
+}
+.image-partner-one__block-partner{
+    width: 177px;
+    height: 177px;
+    background-color: white;
+    text-align: center;
+}
+.block-partner__logo{
+    width: 139px;
+    height: 73px;
+    position: relative;
+    left :32px;
+    top:51px;
+}
+.partner__image-partner-two{
+
+}
+.block-partner__logo-e{
+    margin-left: 20px ;
+}
+.image-partner-two__block-partner{
+    width: 177px;
+    height: 177px;
+    background-color: white;
+    text-align: center;
+}
+.block-partner__logo{
+
+}
