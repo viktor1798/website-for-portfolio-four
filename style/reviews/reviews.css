@@ -1,0 +1,94 @@
+.reviews{
+    margin-top: 90px;
+}
+.reviews__title-reviews{
+    margin-bottom: 60px;
+}
+.title-reviews__reviews-main-text{
+    text-align: center;
+    text-transform: uppercase;
+
+}
+.reviews-main-text__text{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 45px;
+    line-height: 55px;
+    /* or 122% */
+    
+    
+}
+.reviews__recommendations{
+    display: flex;
+    justify-content: space-between;
+
+}
+.recommendations__video-block-one{
+    width: 520px;
+    height: 255px;
+    
+}
+
+.recommendations__video-block-two{
+    width: 520px;
+    height: 255px;
+    
+
+}
+.video-block-one__video-block{
+    margin-top: 28px;
+}
+.video-block-two__video-block{
+    margin-top: 28px;
+}
+.video-block-one__video{
+
+}
+.video-block-two__video-block{
+
+}
+.video-block__main-video{
+    width:520px;
+    height: 255px;
+    border-radius: 5px;
+    background-color: #c4c4c4;
+    
+}
+.main-video__play{
+    border: 2px solid #FFD200;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    position: relative;
+    left: 230px;
+    top: 98px;
+
+}
+.play__button-video{
+    margin: 18px 17px 16px 21px;
+}
+.video-block__description-video{
+    margin-top: 10px;
+}
+.description-video__company-name{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 25px;
+    /* or 250% */
+    
+    
+    color: #000000;
+}
+.description-video__job-title{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 25px;
+/* or 306% */
+
+
+}
