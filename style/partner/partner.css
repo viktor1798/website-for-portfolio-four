@@ -33,28 +33,42 @@ justify-content: space-between;
 .image-partner-one__block-partner{
     width: 177px;
     height: 177px;
-    background-color: white;
-    text-align: center;
+    border: 2px solid rgba(73, 104, 129, 0.1);
+    border-radius: 10px;
+    margin-bottom: 10px;
+    position: relative;
+    
 }
 .block-partner__logo{
-    width: 139px;
-    height: 73px;
-    position: relative;
-    left :32px;
-    top:51px;
-}
-.partner__image-partner-two{
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
 
 }
-.block-partner__logo-e{
-    margin-left: 20px ;
+ .partner__image-partner-two{
+     
 }
+.block-partner__logo-e{
+    
+}
+
+/*
+выравнивание изображение по центру туториал
+ 
+http://ktvd.ru/vertical-align-for-picture/ */
+
 .image-partner-two__block-partner{
     width: 177px;
     height: 177px;
-    background-color: white;
-    text-align: center;
+    border: 2px solid rgba(73, 104, 129, 0.1);
+    border-radius: 10px;
+    position: relative;
 }
-.block-partner__logo{
 
-}
+
