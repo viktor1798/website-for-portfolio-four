@@ -65,6 +65,7 @@
     height: 55px;
     outline: #5BBFC8;
     
+    border-radius: 5px;
     border: 0;
     font-family: 'Manrope';
     font-style: normal;
@@ -146,15 +147,30 @@
 }
 
 /* размытие */
+.description__shadow{
+    background: #FFFFFF;
+    opacity: 0.8;
+    border-radius: 10px;
+    width: 412px;
+    height: 288px;
+    position: relative;
+    bottom: 66px;
+}
 .benefist__description{
+    
     background-image: url(../../image/header_benefist_description_img.png);
     width: 412px;
     height: 288px;
     background-repeat: no-repeat;
     opacity: 0.9;
     margin: 0 10px 0 0;
+    border-radius: 10%;
 }
-.description__title-item{
+.shadow__content-description{
+    position: relative;
+    top:66px;
+}
+.content-description__title-item{
     color:#000000;
     font-family: 'Manrope';
     font-style: normal;
@@ -164,13 +180,13 @@
     width: 344px;
     margin: 66px 0 23px 44px;
 }
-.description__line{
+.content-description__line{
     width: 88px;
     height: 5.36px;
     background-color: #000000;
     margin-left: 42px;
 }
-.description__text-item{
+.content-description__text-item{
     color:#000000;
     font-family: 'Manrope';
     font-style: normal;
