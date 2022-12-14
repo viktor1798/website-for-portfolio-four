@@ -1,4 +1,85 @@
 .footer{
     height: 273px;
     background-color: #17181C;
+    margin-top: 190px;
+}
+.footer__main-block-footer{
+ display: flex;
+}
+.main-block-footer__img-footer-logo{
+    margin-top: 48px;
+    margin-right: 140px;
+}
+.img-footer-logo__item{
+
+}
+.main-block-footer__menu-footer{
+    
+}
+.menu-footer__menu-box-footer{
+    display: flex;
+    list-style: none;
+    color: white;  
+    margin-top: 110px;
+    
+}
+.menu-box-footer__item{
+    margin: 0 15px;
+}
+.menu-footer__social-img-footer{
+    display: flex;
+    justify-content: end;
+    margin-top: 24px;
+}
+.menu-footer__img-avito{
+
+}
+.img-avito__item{
+
+}
+.menu-footer__img-inst{
+
+}
+.img-inst__item{
+
+}
+.main-block-footer__contact-footer{
+    margin-top: 112px;
+    margin-left: 27px;
+}
+.contact-footer__number-footer{
+    color:#FFD300 ;
+    display: flex;
+    margin-left: 127px;
+    
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.number-footer__item{
+    width: 13px;
+    height: 13px;
+}
+.number-footer__text{
+    margin-left: 10px;
+   
+}
+.contact-footer__contact-button{
+    margin-top: 20px;
+}
+.contact-button__button{
+    background-color: #17181C;
+    color: #FFD200;
+    outline: #FFD200;
+    width: 293px;
+    height: 47px;
+    outline: none;
+
+    border: 1px solid #FFD200;
+    border-radius: 5px;
 }
